@@ -12,5 +12,5 @@ hello yushi! hello git!
 hello yushi! hello git!
 hello yushi! hello git!
 hello yushi! hello git!
-hello yushi! hello git!
+hello yushi! hello git!  hot-fix test
 hello yushi! hello git!
